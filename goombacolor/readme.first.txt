@@ -1,0 +1,3 @@
+1. There is Official site of Goomba @ http://www.webpersona.com/goomba/ and the latest emulater goomba is the version 2.0 dated 2004.
+2. There is a newer version which support better color at Dwedit's website https://www.dwedit.org/gba/goombacolor.php dated 2019-05-04. This is better (and newer) in term of color and game detection but it also hit some regression like the game Qix can is not playable. 
+3. Hence, you may need to use both 1. and 2. for your different games.
